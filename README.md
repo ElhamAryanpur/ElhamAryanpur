@@ -90,8 +90,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElhamAryanpur&show_icons=true&count_private=true" align="center" /></div>  
 
-<br/>  
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElhamAryanpur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElhamAryanpur&layout=compact" align="center" /></div>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ElhamAryanpur)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ElhamAryanpur" align="center" /></div>  
