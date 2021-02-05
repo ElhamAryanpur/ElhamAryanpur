@@ -9,7 +9,7 @@
 - 🔭  I’m currently working on a [UI and graphics engine](https://github.com/BlueElham/HopeUIC)  
   
 
-- 🌱 I’m currently learning C99 and OpenGL  
+- 🌱 I’m currently learning WebGPU  
   
 
 - 📫 How to reach me: on my social media  
