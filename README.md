@@ -3,19 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Elham, a generalist software developer 👨‍💻 working in the industry since 2018 🚀</div>  
+### <div align="center">I'm Elham, a generalist software engineer 👨‍💻 working professionally in the industry since 2018 🚀</div>  
   
 
-- 🔭  I’m currently working on a [UI and graphics engine](https://github.com/BlueMazar)  
+- 🔭  I’m currently working on a [graphics engine](https://github.com/BlueMazar)
   
 
 - 🌱 I’m currently learning WebGPU  
   
 
 - 📫 How to reach me: on my social media  
-  
-
-- 😄 Pronouns: Blue Elham  
   
 
 <br/>  
