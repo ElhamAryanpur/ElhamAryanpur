@@ -6,10 +6,10 @@
 ### <div align="center">I'm Elham, a generalist software engineer 👨‍💻 working professionally in the industry since 2018 🚀</div>  
   
 
-- 🔭  I’m currently working on a [graphics engine](https://github.com/ElhamAryanpur/BlueEngine)
+- 🔭  I’m currently working on a [graphics engine](https://github.com/AryanpurTech/BlueEngine)
   
 
-- 🌱 I’m currently learning WebGPU  
+- 🌱 I’m currently learning WebGPU and embedded  
   
 
 - 📫 How to reach me: on my social media  
@@ -49,8 +49,8 @@
 
 
 ## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhamaryanpur&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="elhamaryanpur" /></p>
+<div align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhamaryanpur&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="elhamaryanpur" /></p></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elhamaryanpur&show_icons=true&theme=tokyonight&locale=en" alt="elhamaryanpur" /></p> 
+<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elhamaryanpur&show_icons=true&theme=tokyonight&locale=en" alt="elhamaryanpur" /></p> </div>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ElhamAryanpur" align="center" /></div>  
