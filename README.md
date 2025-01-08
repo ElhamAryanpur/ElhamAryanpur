@@ -4,7 +4,7 @@
 - 🔭  I’m currently working on a [graphics engine](https://github.com/AryanpurTech/BlueEngine) and founder of [ArkForge LLC](https://github.com/ArkForgeLabs) 🚀
   
 
-- 🌱 I’m currently learning [WebGPU](https://www.w3.org/TR/webgpu/) and [LLMs](https://en.wikipedia.org/wiki/Large_language_model)
+- 🌱 I’m currently learning [WebGPU](https://www.w3.org/TR/webgpu/), [LLMs](https://en.wikipedia.org/wiki/Large_language_model) and [Astra](https://astra.arkforge.net) 🔥
   
 
 - 📫 How to reach me: on my social media  
